@@ -109,7 +109,7 @@ const BasicDetails = () => {
                         className="form-control mb-2"></textarea>
                     </label>
             </div>
-            <div className='card-footer bg-secondary text-white text-center py-2'>
+            <div className='card-footer bg-warning text-white text-center py-2'>
                 <button className="btn btn-danger" onClick={save}>Save & Continue</button>
             </div>
         </div>
